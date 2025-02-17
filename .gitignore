@@ -1,0 +1,3 @@
+log.txt
+/dir2
+# *.txt  This will ignore all files with the .txt extension
